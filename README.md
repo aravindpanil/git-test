@@ -7,3 +7,5 @@ Contains a C program that prints hello world.
 <font color='green'> Test </font> 
 
 <font color='#0e5444'> Test </font>
+ 
+<span style="color:blue">some *blue* text</span>.
